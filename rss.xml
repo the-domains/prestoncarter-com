@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[prestoncarter.com]]></title>
+        <description><![CDATA[prestoncarter.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 19:21:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We've officially entered 2016. That's insane to think about. You think of all the crazy things we've seen and done in our lifetime and if you are my age, 2016, was seemingly a million years away. ]]></title>
+            <description><![CDATA[<article><h1>We've officially entered 2016. That's insane to think about. You think of all the crazy things we've seen and done in our lifetime and if you are my age, 2016, was seemingly a million years away. </h1><p>Where do we go from here? What does 2016, have in store for us? For me this will be the year of the nasty court battle with my favorite brother-in-law. Luckily, this will be the last year he or his family will have any presence in or on our lives. ANYWAY.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c6fddc01ad222060008c54d7df5bb1f1cee402b.jpg"></article>]]></description>
+            <link>undefinedweve-officially-entered-2016-thats-insane-to-think-about/index.html</link>
+            <guid isPermaLink="false">2c8f8bbc-604b-44e6-88ab-9adbed802b05</guid>
+            <pubDate>Mon, 18 Jan 2016 19:21:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
